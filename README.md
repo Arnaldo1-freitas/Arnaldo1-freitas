@@ -28,7 +28,7 @@
  <a href="https://www.linkedin.com/in/arnaldo-freitas-878929211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "https://trailblazer.me/id/afreitas18"><img src="https://img.shields.io/badge/Trailhead-%23039BE5.svg?&style=for-the-badge&logo=Trailhead&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   ##
